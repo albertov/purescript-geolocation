@@ -1,6 +1,6 @@
 {
   "name": "purescript-geolocation",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "moduleType": [
     "node"
   ],
@@ -11,10 +11,8 @@
     "output"
   ],
   "dependencies": {
-    "purescript-eff": "^0.1.2",
-    "purescript-datetime": "^0.9.1",
-    "purescript-dom": "^0.2.17",
-    "purescript-globals": "^0.2.2",
-    "purescript-integers": "^0.2.1"
+    "purescript-eff": "^2.0.0",
+    "purescript-dom": "^3.1.0",
+    "purescript-globals": "^2.0.0"
   }
 }
